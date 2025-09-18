@@ -2,18 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gines-lopez.github.io/PI2DAM/index.html</loc>
-         <lastmod>2025-09-12</lastmod>
+         <lastmod>2025-09-18</lastmod>
     </url>
     <url>
          <loc>https://gines-lopez.github.io/PI2DAM/ACbr.html</loc>
-         <lastmod>2025-09-12</lastmod>
+         <lastmod>2025-09-18</lastmod>
     </url>
     <url>
          <loc>https://gines-lopez.github.io/PI2DAM/includes/abbreviations.html</loc>
-         <lastmod>2025-09-12</lastmod>
+         <lastmod>2025-09-18</lastmod>
     </url>
     <url>
-         <loc>https://gines-lopez.github.io/PI2DAM/ut/ut01/ResumenUT.html</loc>
-         <lastmod>2025-09-12</lastmod>
+         <loc>https://gines-lopez.github.io/PI2DAM/retos/reto_1/Autoevaluacion.html</loc>
+         <lastmod>2025-09-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gines-lopez.github.io/PI2DAM/retos/reto_1/Coevaluacion.html</loc>
+         <lastmod>2025-09-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gines-lopez.github.io/PI2DAM/retos/reto_1/ResumenReto.html</loc>
+         <lastmod>2025-09-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gines-lopez.github.io/PI2DAM/retos/reto_1/Reto.html</loc>
+         <lastmod>2025-09-18</lastmod>
     </url>
 </urlset>
